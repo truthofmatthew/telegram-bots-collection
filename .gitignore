@@ -1,2 +1,5 @@
 sticker_downloader_bot/.env
 __pycache__/
+.idea
+.DS_Store
+.gitginore
